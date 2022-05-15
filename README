@@ -1,0 +1,8 @@
+1. Project generated & compiled using STM32CubeIDE
+
+2. /Debug/flash
+   To flash .bin file to MCU
+   Using ST-LINK V2 Dongle
+   Make sure to install st-flash first
+   use : ./flash
+
